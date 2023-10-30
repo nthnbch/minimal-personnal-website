@@ -1,6 +1,6 @@
 <div align="center">
 
-# Personal Webpage Template
+# Minimal Personnal Website
 
 Example
 
