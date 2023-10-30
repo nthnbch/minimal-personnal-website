@@ -4,7 +4,7 @@
 
 Exemple
 
-![Screenshot Placeholder](path_to_your_screenshot.png)
+![Screenshot Page](path_to_your_screenshot.png)
 
 </div>
 
