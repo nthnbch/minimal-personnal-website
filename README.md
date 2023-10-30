@@ -1,4 +1,12 @@
+<div align="center">
+
 # Personal Webpage Template
+
+Exemple
+
+![Screenshot Placeholder](path_to_your_screenshot.png)
+
+</div>
 
 Welcome to the repository for this personal website template. It serves as a starting point for anyone looking to create a simple, clean personal webpage to showcase themselves, their projects, and ways to connect.
 
@@ -27,7 +35,7 @@ This template provides a single-page portfolio layout. It offers a brief introdu
     ```
 2. Navigate to the cloned directory.
     ```bash
-    cd minimal-personnal-website
+    cd personal-webpage-template
     ```
 3. Open `index.html` in your preferred browser.
 
