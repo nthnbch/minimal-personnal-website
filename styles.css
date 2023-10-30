@@ -1,0 +1,38 @@
+/* Global Styles */
+body {
+    background-color: #FFD700;
+    font-family: 'Roboto', sans-serif; /* Using Roboto font */
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for main text */
+.main-text {
+    font-size: clamp(4rem, 4rem + ((1vw - 0.2rem) * 10.909), 10rem);
+    line-height: 0.70;
+    letter-spacing: -5px;
+    text-align: left;
+    padding-left: 3%;
+    margin-top: 3%;
+    white-space: nowrap;
+}
+
+/* Styles for social media icons */
+.social-icons {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+
+.social-icons a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+}
