@@ -41,4 +41,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**© 2023 Your Name Here. All Rights Reserved.**
+** 2023 nthnbch **
