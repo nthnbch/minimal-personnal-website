@@ -4,7 +4,7 @@
 
 Example
 
-![Screenshot Page](path_to_your_screenshot.png)
+![Screenshot Page]([.png](https://github.com/nthnbch/minimal-personnal-website/blob/master/assets/screenshot_website.png))
 
 </div>
 
