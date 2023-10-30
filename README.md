@@ -1,4 +1,12 @@
+<div align="center">
+
 # Personal Webpage Template
+
+Exemple
+
+![Screenshot Page](path_to_your_screenshot.png)
+
+</div>
 
 Welcome to the repository for this personal website template. It serves as a starting point for anyone looking to create a simple, clean personal webpage to showcase themselves, their projects, and ways to connect.
 
