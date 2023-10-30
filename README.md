@@ -27,7 +27,7 @@ This template provides a single-page portfolio layout. It offers a brief introdu
     ```
 2. Navigate to the cloned directory.
     ```bash
-    cd personal-webpage-template
+    cd minimal-personnal-website
     ```
 3. Open `index.html` in your preferred browser.
 
