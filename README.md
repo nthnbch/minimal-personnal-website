@@ -2,7 +2,7 @@
 
 # Personal Webpage Template
 
-Exemple
+Example
 
 ![Screenshot Page](path_to_your_screenshot.png)
 
