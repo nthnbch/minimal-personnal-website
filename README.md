@@ -1,6 +1,6 @@
 <div align="center">
 
-# Minimal Personnal Website
+# Bi-color Minimal Personnal Website
 
 Example
 
