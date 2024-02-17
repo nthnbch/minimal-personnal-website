@@ -2,10 +2,6 @@
 
 # Bi-color Minimal Personnal Website
 
-Example
-
-![Screenshot Page](https://github.com/nthnbch/minimal-personnal-website/blob/master/assets/screenshot_website.png)
-
 </div>
 
 Welcome to the repository for this personal website template. It serves as a starting point for anyone looking to create a simple, clean personal webpage to showcase themselves, their projects, and ways to connect.
